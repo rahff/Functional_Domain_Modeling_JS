@@ -8,8 +8,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "jasmine": "^5.1.0"
-  }
+  "description": ""
 }
