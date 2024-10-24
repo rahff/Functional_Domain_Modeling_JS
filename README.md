@@ -1,0 +1,1 @@
+This code is related to myLinkedIn aticle : https://www.linkedin.com/posts/rapha%C3%ABl-andrey-611113212_javascript-conception-ddd-activity-7180582744299589632-jf6A?utm_source=share&utm_medium=member_desktop
